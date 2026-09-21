@@ -40,3 +40,12 @@ scikit-learn; отдельный файл данных не требуется. 
 поэтому её результат не является полностью независимой оценкой
 окончательного выбора модели. Проект не предназначен для медицинского
 применения.
+
+Ссылки
+- [Соревнование на Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
+- [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ijxrGnHhADEDd5_WanqJCrSE7_AJEb0S?usp=sharing)
+- [Мой профиль Kaggle](https://www.kaggle.com/potsml)
+
+Контакты
+- Telegram: @antaleksandr
+- Email: AntAleksandrGit@gmail.com
