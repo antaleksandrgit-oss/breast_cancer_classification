@@ -1,7 +1,7 @@
 # Breast Cancer Classification
 
 Учебный проект бинарной классификации опухолей по числовым признакам.
-Положительный класс (`1`) — злокачественная опухоль. Главная метрика —
+Положительный класс (`1`) - злокачественная опухоль. Главная метрика -
 recall, поскольку FN означает пропущенный злокачественный случай.
 
 ## Данные и метод
@@ -42,8 +42,7 @@ scikit-learn; отдельный файл данных не требуется. 
 применения.
 
 Ссылки
-- [Соревнование на Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
-- [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ijxrGnHhADEDd5_WanqJCrSE7_AJEb0S?usp=sharing)
+- [Ноутбук в Google Colab][(https://colab.research.google.com/drive/1ijxrGnHhADEDd5_WanqJCrSE7_AJEb0S?usp=sharing)](https://colab.research.google.com/drive/1ABrfA4U1RZCNV919BgWQsL_5t0gf5Pkw?usp=sharing)
 - [Мой профиль Kaggle](https://www.kaggle.com/potsml)
 
 Контакты
